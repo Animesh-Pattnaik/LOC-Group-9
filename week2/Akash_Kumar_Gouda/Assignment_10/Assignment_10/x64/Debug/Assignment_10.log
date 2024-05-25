@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(12,23): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(14,16): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(14,31): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(14,48): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(14,63): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(19,20): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+C:\Users\Salbarnus\Desktop\week2\Assignment_10\main.cpp(19,35): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+  Assignment_10.vcxproj -> C:\Users\Salbarnus\Desktop\week2\Assignment_10\x64\Debug\Assignment_10.exe
